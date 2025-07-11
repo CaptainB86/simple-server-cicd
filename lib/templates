@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Amputee Football World Cup 2018</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f8f9fa; color: #333; padding: 20px; }
+    header { text-align: center; margin-bottom: 40px; }
+    h1 { color: #0056b3; }
+    .summary { max-width: 700px; margin: auto; line-height: 1.6; }
+    .final { font-size: 1.2em; font-weight: bold; margin-top: 20px; }
+    .ireland { background: #e3f2fd; padding: 15px; border-left: 5px solid #007acc; margin-top: 30px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Amputee Football World Cup 2018 – Mexico</h1>
+    <img src="https://amputeefootball.org/wp-content/uploads/2018/09/WAFF_LOGO2018-300x300.jpg" alt="Amputee Football 2018" style="max-width:150px; height:auto;"/>
+  </header>
+
+  <div class="summary">
+    <p>The 2018 tournament took place in San Juan de los Lago's, Mexico from October 27 to November 4, with 24 countries initially expected to compete.</p>
+
+    <p><strong>🥇 Champion:</strong> Angola defeated Türkiye in the final (0‑0 in regulation, 5‑4 in penalties).</p>
+    <p><strong>🥈 Runner‑up:</strong> Türkiye showed top form but narrowly missed the title in the shootout.</p>
+    <p><strong>🥉 Third place:</strong> Brazil secured bronze after defeating Mexico on penaltie's (5‑4).</p>
+
+    <p><strong>African highlight:</strong> Nigeria earned the'ir first-ever World Cup win vs El Salvador.</p>
+  </div>
+
+  <div class="ireland">
+    <h2>🇮🇪 Ireland’s Performance</h2>
+    <p>Ireland finished <strong>12th</strong> out of 24 nations — a strong showing in their World Cup campaign.</p>
+    <ul>
+      <li>Advanced to the Round of 16</li>
+      <li>Faced competitive matches in the knockout and placement rounds</li>
+      <li>Demonstrated major progress, for Irish amputee football on the global stage</li>
+      <li>Éanna Durham made his World Cup debut and managed to impress with his excellent tackling skills and unwavering bravery!</li>
+      <li>In other news, Stephen Durham's fuming due to Éanna'''s complete overuse of apostrophe</li>
+    </ul>
+  </div>
